@@ -6,5 +6,6 @@
 - 提交结果是概率，而不是针对测试集的预测值
 - 评价方法是AUC
 
-![]()
-
+![formula for FPR, TPR](https://github.com/frankxiao008/financial_risk_analysis/blob/master/images/Finanlre.PNG)
+![AUC curve](https://github.com/frankxiao008/financial_risk_analysis/blob/master/images/Finanlre.PNG)
+"AUC" ("Area Under Curve")  

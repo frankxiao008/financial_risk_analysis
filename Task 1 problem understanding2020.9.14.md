@@ -7,5 +7,12 @@
 - 评价方法是AUC
 
 ![formula for FPR, TPR](https://github.com/frankxiao008/financial_risk_analysis/blob/master/images/Finanlre.PNG)
-![AUC curve](https://github.com/frankxiao008/financial_risk_analysis/blob/master/images/Finanlre.PNG)
-"AUC" ("Area Under Curve")  
+
+
+### ROC 曲线
+The ROC curve is created by plotting the true positive rate (TPR) against the false positive rate (FPR) at various threshold settings
+**TPR = TP/P =TP/(TP + FN)**  
+**FPR = FP/N =FP/(FP + TN)**
+![AUC curve](https://github.com/frankxiao008/financial_risk_analysis/blob/master/images/330px-Roccurves.png)
+
+
